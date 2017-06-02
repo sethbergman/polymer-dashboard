@@ -29,7 +29,13 @@
 	app.cols = '2';
 
 	// Firebase location
-	app.location = 'https://polymer-admin.firebaseio.com';
+	var config = {
+		apiKey: "AIzaSyCDvQ1TydAACMwKaZUU65Oln54IZa8gWiE",
+		authDomain: "polymer-dashboard-f8d4a.firebaseapp.com",
+		databaseURL: "https://polymer-dashboard-f8d4a.firebaseio.com",
+		storageBucket: "polymer-dashboard-f8d4a.appspot.com"
+	};
+	firebase.initializeApp(config);
 
 	// Sign out user
 	app.signOut = function () {
