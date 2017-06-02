@@ -1,5 +1,7 @@
 # Polymer Admin Dashboard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/polymer-dashboard.svg)](https://greenkeeper.io/)
+
 Responsive admin dashboard created using Polymer 1.0 and [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit).
 
 ![demo](http://i.imgur.com/dfngCzT.png)
