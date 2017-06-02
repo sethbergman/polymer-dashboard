@@ -1,0 +1,10 @@
+{
+	"suites": [ "app/test" ],
+	"webserver": {
+		"pathMappings": [
+			{
+				"/components/polymer-dashboard/app/bower_components": "bower_components"
+			}
+    ]
+	}
+}

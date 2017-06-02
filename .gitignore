@@ -1,0 +1,10 @@
+*.iml
+
+## Directory-based project format:
+.idea/
+
+
+node_modules
+bower_components
+.tmp
+dist
